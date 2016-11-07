@@ -1,0 +1,1 @@
+lexical.JavaApplication3
